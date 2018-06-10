@@ -81,6 +81,7 @@ function getStyleLoader(less) {
             ],
             flexbox: 'no-2009',
           }),
+          require('postcss-pxtorem')({ rootValue: 100, propWhiteList: [] })
         ],
       },
     },
