@@ -1,1 +1,1 @@
-mobile frontend for alpha tac
+mobile frontend for alpha tac.
